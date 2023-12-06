@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../CSS/CSS COURS"
+		},
+		{
+			"path": "../Introduction to Algorithms"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Introduction to Algorithms"
+	}
+}
